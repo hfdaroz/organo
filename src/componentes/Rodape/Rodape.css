@@ -1,0 +1,20 @@
+.container {
+    background-color: #284885;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 32px;
+    
+}
+
+.container img {
+    max-width: 100%;
+}
+
+.midias img {
+    margin-right: 32px;
+}
+
+.container h1{
+    color: white;
+}
